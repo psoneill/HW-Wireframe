@@ -40,11 +40,15 @@ section {
 aside {
   float:left;
   width:285px;
-  padding: 40px 0px 185px 0px;
+  padding: 40px 0px 175px 0px;
   margin: 10px 0px 0px 20px;
  }
 
 footer {
   clear:both;
+}
+
+h1 {
+  font-weight: bold;
 }
   
